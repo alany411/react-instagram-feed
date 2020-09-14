@@ -46,7 +46,7 @@
     "generator-nod"
   ],
   "dependencies": {
-    "axios": "0.19.2",
+    "axios": "0.20.0",
     "lodash": "4.17.20",
     "recompose": "0.30.0"
   },
