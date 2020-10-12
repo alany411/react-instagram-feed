@@ -69,7 +69,7 @@
     "flow-bin": "0.133.0",
     "flow-copy-source": "2.0.9",
     "husky": "4.3.0",
-    "jest": "26.4.2",
+    "jest": "26.5.3",
     "lint-staged": "10.3.0",
     "opn-cli": "5.0.0",
     "prettier": "2.1.1",
