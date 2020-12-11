@@ -66,7 +66,7 @@
     "eslint-plugin-flowtype-errors": "4.3.0",
     "eslint-plugin-import": "2.22.0",
     "eslint-plugin-prettier": "3.1.4",
-    "flow-bin": "0.133.0",
+    "flow-bin": "0.140.0",
     "flow-copy-source": "2.0.9",
     "husky": "4.3.0",
     "jest": "26.4.2",
